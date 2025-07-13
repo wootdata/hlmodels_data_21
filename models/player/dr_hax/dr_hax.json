@@ -38,6 +38,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 7,
@@ -72,6 +73,7 @@
 			"type": 8
 		}
 	],
+	"date": 1630588544,
 	"events": [
 		{
 			"event": 2001,
@@ -181,7 +183,11 @@
 	],
 	"id": 1414743113,
 	"md5": "6b74fcc95cae1028455b524d53666b59",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "mrhax.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

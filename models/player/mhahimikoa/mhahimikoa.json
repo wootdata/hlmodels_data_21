@@ -198,6 +198,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -232,6 +233,7 @@
 			"type": 8
 		}
 	],
+	"date": 1640473446,
 	"events": [
 		{
 			"event": 2001,
@@ -341,7 +343,11 @@
 	],
 	"id": 1414743113,
 	"md5": "c50264468b75302c01d9794874d74f8e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "MHAHimiko.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

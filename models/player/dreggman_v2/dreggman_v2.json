@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -62,6 +63,7 @@
 			"type": 8
 		}
 	],
+	"date": 1632541427,
 	"events": [
 		{
 			"event": 2001,
@@ -171,7 +173,11 @@
 	],
 	"id": 1414743113,
 	"md5": "05f4ea79cd3682bbf6bc9a694ffb292c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Users\\Danara\\Desktop\\DrEggman\\DrEggman.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

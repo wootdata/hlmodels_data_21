@@ -43,6 +43,7 @@
 			"name": "soldier"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -77,6 +78,7 @@
 			"type": 8
 		}
 	],
+	"date": 1620718238,
 	"events": [
 		{
 			"event": 2001,
@@ -186,7 +188,11 @@
 	],
 	"id": 1414743113,
 	"md5": "df3261350fd16ebe37515270159b1b73",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "mikeforce.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

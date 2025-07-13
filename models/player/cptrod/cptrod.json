@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -67,6 +68,7 @@
 			"type": 8
 		}
 	],
+	"date": 1620406428,
 	"events": [
 		{
 			"event": 2001,
@@ -176,7 +178,11 @@
 	],
 	"id": 1414743113,
 	"md5": "71fec4a6f4db3e3de1f9ada9e2eb002f",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "cptrod.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
