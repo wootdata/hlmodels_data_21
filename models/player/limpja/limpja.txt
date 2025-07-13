@@ -1,0 +1,40 @@
+11-02-00
+
+----------------------------------------------------------------------
+
+Model Name              : Limp[JA] version
+
+Model Author            : Rikki "Phukyumoto" Knight
+
+Email                   : phukyumoto@polycount.com
+
+Website                 : http://www.planetquake.com/polycount/cottages/phukyumoto
+
+Model description       : Let me start off by saying I do not normally do requested clan
+			  models or customize my models for clan use. If you ask, normally
+			  I will ignore you. But the boyz in [JA] were kind enough and
+			  gave enough mad props to prompt me to do this easy conversion for
+			  them. Thanks to those guys and especially [JA]Rapid for actually 			  using one of my models :)
+
+			  Lot's of complaints came in about the proportion's of the original
+			  Limp models body. So I did quite a bit of tweaking on this one.
+			  The result, a more shapely model, this time with the hat 			  backwards.
+
+----------------------------------------------------------------------
+
+
+* Construction *
+
+Poly Count              : 777 faces, body & hands 
+
+Skin Count              : 1
+
+Editor used             : 
+		Modeling - 3d Studio Max 3	
+		Mapping  - NST/3d Studio Max 3
+		Skinning - Photoshop
+
+Known Bugs              : The biped didn't take too well to the crotch area, so there a bit 			  of wierdness there when crouching.
+
+
+Thanks			: Props once again to [JA] for thier support 
