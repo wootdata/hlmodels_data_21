@@ -175,6 +175,7 @@
 	"md5": "d10aec969bd56dc7bdfe2b9f091e6efe",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/yodan/yodan.mdl",
 	"preview": true,
 	"readme": false,

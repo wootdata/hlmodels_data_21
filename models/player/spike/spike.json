@@ -175,6 +175,7 @@
 	"md5": "2411ccdfb646c15a2c88b2ecbf1fe3b7",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/test1/test1.mdl",
 	"preview": true,
 	"readme": false,

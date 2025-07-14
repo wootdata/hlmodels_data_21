@@ -175,6 +175,7 @@
 	"md5": "db51f409ee17ecf0c82cc1fb8212353d",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "player/bob/bob.mdl",
 	"preview": true,
 	"readme": false,

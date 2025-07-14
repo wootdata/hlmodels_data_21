@@ -175,6 +175,7 @@
 	"md5": "a341389b54344ee09b01d25844f076ce",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/recon/recon.mdl",
 	"preview": true,
 	"readme": false,

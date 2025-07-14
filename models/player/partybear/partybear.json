@@ -175,6 +175,7 @@
 	"md5": "3c43502beed596a43383043b610c38cc",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "player/partybear/partybear.mdl",
 	"preview": true,
 	"readme": false,

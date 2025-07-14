@@ -175,6 +175,7 @@
 	"md5": "64c2fa2d808a2d888e03a193e7b3a436",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/obi09/obi09.mdl",
 	"preview": true,
 	"readme": false,
