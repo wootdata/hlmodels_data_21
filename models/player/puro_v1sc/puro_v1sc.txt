@@ -1,0 +1,20 @@
+移植作者: Goodman3/好人三
+原模型作者:IntrepidNeon DamKung13
+
+Conversion: Goodman3/好人三
+Original: IntrepidNeon DamKung13
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : puro
+Source Model Hash : e6a71afa5144887920a48c8a69178795
+Source Model Date : 1589000961 (2020/05/08)
+
+Ported Model Name : puro_v1sc
+Ported Model Hash : 2d1e7f5076882452e72d115fa47b46c1
+Ported Model Date : 1752492173 (2025/07/14)

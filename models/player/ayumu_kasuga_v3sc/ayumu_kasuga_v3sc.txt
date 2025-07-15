@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ayumu_kasuga_v3
+Source Model Hash : 1a9cb562ded4cd4f18e2dcbeec1a6d4b
+Source Model Date : 1711945434 (2024/03/31)
+
+Ported Model Name : ayumu_kasuga_v3sc
+Ported Model Hash : ac982f43bbde5aaec6e7bfdb22ac861a
+Ported Model Date : 1752491392 (2025/07/14)

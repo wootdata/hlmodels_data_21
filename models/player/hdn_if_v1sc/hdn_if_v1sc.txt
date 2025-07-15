@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hdn_if
+Source Model Hash : 0548d3762662a09ca37dfe155ce942b9
+Source Model Date : 1546863483 (2019/01/07)
+
+Ported Model Name : hdn_if_v1sc
+Ported Model Hash : ab2bed29efd0eca3b97eb5a8ccf735fc
+Ported Model Date : 1752491775 (2025/07/14)

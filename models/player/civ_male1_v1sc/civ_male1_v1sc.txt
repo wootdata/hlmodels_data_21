@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : civ_male1
+Source Model Hash : 3a5cb0bd28cd7fd124ffd8ecf267387a
+Source Model Date : 1268288045 (2010/03/10)
+
+Ported Model Name : civ_male1_v1sc
+Ported Model Hash : e447c31d7b03cb65f6b2a26fa6622500
+Ported Model Date : 1752491477 (2025/07/14)

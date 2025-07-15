@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tfc_pyro_hd_v2
+Source Model Hash : e28dd3c958398aa7161d4a2a445f3d53
+Source Model Date : 1523376040 (2018/04/10)
+
+Ported Model Name : tfc_pyro_hd_v2sc
+Ported Model Hash : b2f9ed60269a0ccfdbeb9ee98374b7bf
+Ported Model Date : 1752492408 (2025/07/14)

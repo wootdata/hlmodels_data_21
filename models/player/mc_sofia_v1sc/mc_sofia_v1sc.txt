@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mc_sofia
+Source Model Hash : db0881f09569fdfe70658217066484e9
+Source Model Date : 1481591408 (2016/12/12)
+
+Ported Model Name : mc_sofia_v1sc
+Ported Model Hash : 95167595e71d75cff8db4413f4c29402
+Ported Model Date : 1752491997 (2025/07/14)

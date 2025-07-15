@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nato-delta
+Source Model Hash : 435bb226c8cc5d57912178deb9b35836
+Source Model Date : 1265564597 (2010/02/07)
+
+Ported Model Name : nato-delta_v1sc
+Ported Model Hash : e72e6b354b9ff686572cd74a9a06b562
+Ported Model Date : 1752492071 (2025/07/14)

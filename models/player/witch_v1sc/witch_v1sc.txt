@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : witch
+Source Model Hash : 3649ed4785ad038d092091123c38e9d7
+Source Model Date : 1582935933 (2020/02/28)
+
+Ported Model Name : witch_v1sc
+Ported Model Hash : ed9848801c8e239edd4083232d691e87
+Ported Model Date : 1752492510 (2025/07/14)

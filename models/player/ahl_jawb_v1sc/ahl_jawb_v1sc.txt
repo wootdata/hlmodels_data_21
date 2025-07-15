@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ahl_jawb
+Source Model Hash : 25a0e00e2af942eb1d71c63a62ee2b5f
+Source Model Date : 1694641827 (2023/09/13)
+
+Ported Model Name : ahl_jawb_v1sc
+Ported Model Hash : dd20d91b0cbabe381b0705b32c3a5e0b
+Ported Model Date : 1752491342 (2025/07/14)

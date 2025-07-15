@@ -1,0 +1,26 @@
+---[ WENDIGO ]---
+
+Gauna's first and OC player-model for Sven Co-op 5.0
+
+> Model/Texture/Rigging by Gauna
+> Compile by The303
+
+Instructions:
+1. Extract "wendigo" folder and move it to steamapps\common\Sven Co-op\svencoop_addon\models\player.
+2. Run Sven Coop, go Options, select wendigo as player model and press OK.
+3. Enjoy!
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : wendigo
+Source Model Hash : ec44efbc68b202a59fe5715ba0784925
+Source Model Date : 1549653207 (2019/02/08)
+
+Ported Model Name : wendigo_v1sc
+Ported Model Hash : abb2fdbb29c5d19fe509fde0c257197a
+Ported Model Date : 1752492505 (2025/07/14)

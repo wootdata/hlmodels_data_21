@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : madgit_v2
+Source Model Hash : d3033f7a0938be59af5447de8d9205de
+Source Model Date : 1583478660 (2020/03/05)
+
+Ported Model Name : madgit_v2sc
+Ported Model Hash : ce823f6a2e54919d988cf874133ec00b
+Ported Model Date : 1752491977 (2025/07/14)

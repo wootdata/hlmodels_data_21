@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : uguroza_v3
+Source Model Hash : f08aae91ca5d937f681f5c89f73b5f2c
+Source Model Date : 1690838158 (2023/07/31)
+
+Ported Model Name : uguroza_v3sc
+Ported Model Hash : 40a0f8fe14f7be653b6abaaf87833e45
+Ported Model Date : 1752492473 (2025/07/14)

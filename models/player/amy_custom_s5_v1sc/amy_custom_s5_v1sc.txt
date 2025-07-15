@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : amy_custom_s5
+Source Model Hash : ec85edb7c6b0d0f6ea2a681d20e9242e
+Source Model Date : 1455570774 (2016/02/15)
+
+Ported Model Name : amy_custom_s5_v1sc
+Ported Model Hash : daf51fefc508d70578c9ebf02dda08c2
+Ported Model Date : 1752491360 (2025/07/14)

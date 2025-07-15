@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hk416_nc
+Source Model Hash : f39c52471d28ca689ce98621aa8f3b41
+Source Model Date : 1678900329 (2023/03/15)
+
+Ported Model Name : hk416_nc_v1sc
+Ported Model Hash : 3cd6708defe761d701739fcba0f5cfcc
+Ported Model Date : 1752491800 (2025/07/14)

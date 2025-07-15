@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lt_swako
+Source Model Hash : 519e8def2da42bfc924ac14145c296a2
+Source Model Date : 1541883051 (2018/11/10)
+
+Ported Model Name : lt_swako_v1sc
+Ported Model Hash : a39852eba9e3349c9aa09a9223ad70db
+Ported Model Date : 1752491970 (2025/07/14)

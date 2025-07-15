@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hotlips
+Source Model Hash : f0e7cd43c9fc776c5e3a442ae0fcc17c
+Source Model Date : 1590820683 (2020/05/29)
+
+Ported Model Name : hotlips_v1sc
+Ported Model Hash : 36403a326d74de789e754e05aff5102d
+Ported Model Date : 1752491830 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ghostdog
+Source Model Hash : ab09a89d3ab9fbb090a0141b31b021fc
+Source Model Date : 1256555468 (2009/10/26)
+
+Ported Model Name : ghostdog_v1sc
+Ported Model Hash : 8413418158c698eda294d9ff01a51357
+Ported Model Date : 1752491698 (2025/07/14)

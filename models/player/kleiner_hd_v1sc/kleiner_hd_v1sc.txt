@@ -1,0 +1,41 @@
+XenoAisam
+Romka
+Lt C
+Nirrti
+Mosquito
+Gmod4Ever
+Aeon
+peterboi
+tunderera
+Moi
+ShoTGuNGuY49
+calle7113
+Patrik "DoktorAce" Liljecratz
+Sven co-op 2 team
+CosmicBreak
+CyberStep, Inc.
+Animasa
+Team Ruchiru
+Master circuit
+chiyoki
+Sam Za Nemesis
+M4xf1v3
+Renard
+SHL Team
+VALVe
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kleiner_hd
+Source Model Hash : 40073d2a54bd26975e2d2521e0153c2a
+Source Model Date : 1465591722 (2016/06/10)
+
+Ported Model Name : kleiner_hd_v1sc
+Ported Model Hash : a3fffadb83f2d79097ab271a7ff63f7d
+Ported Model Date : 1752491895 (2025/07/14)

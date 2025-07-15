@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tango-cuban
+Source Model Hash : 55845b0bbf4ec912168a78e20ff0c1d5
+Source Model Date : 1230660070 (2008/12/30)
+
+Ported Model Name : tango-cuban_v1sc
+Ported Model Hash : bb2ed4ed5c139aa35578e95c8d7b76c0
+Ported Model Date : 1752492360 (2025/07/14)

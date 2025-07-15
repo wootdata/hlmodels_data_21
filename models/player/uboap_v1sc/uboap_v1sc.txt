@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : uboap
+Source Model Hash : 0388f2c647fa1b31905e4c2837af82b0
+Source Model Date : 1463492861 (2016/05/17)
+
+Ported Model Name : uboap_v1sc
+Ported Model Hash : 4fa30b8497c5ac9b70f2d4fc71628a42
+Ported Model Date : 1752492469 (2025/07/14)

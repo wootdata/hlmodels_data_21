@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : narkosha_v2
+Source Model Hash : 59083f099aaf5b520aa05a5a3e7f120c
+Source Model Date : 1583457530 (2020/03/05)
+
+Ported Model Name : narkosha_v2sc
+Ported Model Hash : f25407d2b807a749de49c5ccced41656
+Ported Model Date : 1752492068 (2025/07/14)

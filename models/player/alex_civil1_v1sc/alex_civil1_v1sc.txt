@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : alex_civil1
+Source Model Hash : 4c72347e45c83af3dffafb573783966d
+Source Model Date : 1488120738 (2017/02/26)
+
+Ported Model Name : alex_civil1_v1sc
+Ported Model Hash : a9dbe155f8c805c73b1b1f7f00276366
+Ported Model Date : 1752491352 (2025/07/14)

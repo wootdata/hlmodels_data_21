@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : recruit_v3
+Source Model Hash : 41a8580eca2540020376e7b16a9e51b0
+Source Model Date : 1583732651 (2020/03/08)
+
+Ported Model Name : recruit_v3sc
+Ported Model Hash : 1d71d7a5b883eeef7daa1ea314bcd612
+Ported Model Date : 1752492195 (2025/07/14)

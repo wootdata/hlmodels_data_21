@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : donny_color
+Source Model Hash : 83672e0c9de5048f9047016a3d59afdb
+Source Model Date : 1690294094 (2023/07/25)
+
+Ported Model Name : donny_color_v1sc
+Ported Model Hash : bb15d26dfd1464f8e607ff8c320a6b5c
+Ported Model Date : 1752491618 (2025/07/14)

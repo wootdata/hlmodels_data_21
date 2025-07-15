@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : crash_color
+Source Model Hash : 9e63172968f349c3c4d193c40d393e17
+Source Model Date : 1591745032 (2020/06/09)
+
+Ported Model Name : crash_color_v1sc
+Ported Model Hash : e9bc63ec575dba83de9dc38df2617025
+Ported Model Date : 1752491536 (2025/07/14)

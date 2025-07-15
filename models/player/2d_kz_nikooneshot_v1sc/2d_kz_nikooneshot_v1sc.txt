@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_kz_nikooneshot
+Source Model Hash : 8c6525d77e8fe1a303a09e4160888d1d
+Source Model Date : 1553790034 (2019/03/28)
+
+Ported Model Name : 2d_kz_nikooneshot_v1sc
+Ported Model Hash : 8534d08d7e972cb179d2d73f7f5ea344
+Ported Model Date : 1752491315 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sbbmarionohat_v2
+Source Model Hash : 535c0433647077b05d39b86ccbb13f15
+Source Model Date : 1678735767 (2023/03/13)
+
+Ported Model Name : sbbmarionohat_v2sc
+Ported Model Hash : e6a7125d39a1adc6df313be65740032c
+Ported Model Date : 1752492242 (2025/07/14)

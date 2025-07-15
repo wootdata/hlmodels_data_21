@@ -1,0 +1,17 @@
+rager2121@aol.com
+I was just messing around with the drill sargeant Opposing Forces model from bootcamp. I reskinned it to look like a clown cop. Not to be taken seriouslty by any means, just a novelty.
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : clowncop_v2
+Source Model Hash : 347a5cfa0526aff98d446432f4fc7ba7
+Source Model Date : 1582977802 (2020/02/29)
+
+Ported Model Name : clowncop_v2sc
+Ported Model Hash : ff5305c07ea1e0f814e178561b5fb551
+Ported Model Date : 1752491483 (2025/07/14)

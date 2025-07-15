@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kc_murasame_a_v2
+Source Model Hash : 0e0d2b33a8e7b96f24e9169ea9d95b04
+Source Model Date : 1587988833 (2020/04/27)
+
+Ported Model Name : kc_murasame_a_v2sc
+Ported Model Hash : 935468e04a625e8d426d9dc07799cb9b
+Ported Model Date : 1752491877 (2025/07/14)

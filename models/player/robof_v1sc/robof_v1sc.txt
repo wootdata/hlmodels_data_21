@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : robof
+Source Model Hash : b18e4304eab9466d13f4f171da24334c
+Source Model Date : 1596995384 (2020/08/09)
+
+Ported Model Name : robof_v1sc
+Ported Model Hash : 2b2cca326778675ac6a87532a90afc9b
+Ported Model Date : 1752492219 (2025/07/14)

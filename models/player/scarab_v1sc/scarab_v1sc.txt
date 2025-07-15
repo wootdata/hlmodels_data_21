@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : scarab
+Source Model Hash : 2e2b2084e866b9755bab9b8028f8535a
+Source Model Date : 1455995460 (2016/02/20)
+
+Ported Model Name : scarab_v1sc
+Ported Model Hash : c55cb620c0dc4928a4bd25b32ae3f734
+Ported Model Date : 1752492244 (2025/07/14)

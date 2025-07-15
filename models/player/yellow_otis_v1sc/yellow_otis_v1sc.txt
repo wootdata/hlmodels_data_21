@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : yellow_otis
+Source Model Hash : 7bdd3ac739750ab6b87d79fc65bde1f0
+Source Model Date : 1745776657 (2025/04/27)
+
+Ported Model Name : yellow_otis_v1sc
+Ported Model Hash : dc8489275c462c0030d3dcb3ed981c3b
+Ported Model Date : 1752492520 (2025/07/14)

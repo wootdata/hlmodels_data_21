@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : eva
+Source Model Hash : 9ff2940d9b2bf4e5d8068b8c88241b93
+Source Model Date : 1583831318 (2020/03/10)
+
+Ported Model Name : eva_v1sc
+Ported Model Hash : 74e6353a29c30cd08c65b8e132179da4
+Ported Model Date : 1752491639 (2025/07/14)

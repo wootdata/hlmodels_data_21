@@ -1,0 +1,22 @@
+This is O.G. Bobby Johnson !!
+Hoover Deuce mothafucka! :D
+
+---------------------------
+you may not include this model in any mods, 
+sell it in any way or change it without my permission.
+questions? Kampy20@gmx.de  or icq 82273535
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : deuce
+Source Model Hash : b9785d65451a8cf4ffe591586fe19db4
+Source Model Date : 1266937793 (2010/02/23)
+
+Ported Model Name : deuce_v1sc
+Ported Model Hash : fd7f2c1ff8159af4821a115e57b4470f
+Ported Model Date : 1752491595 (2025/07/14)

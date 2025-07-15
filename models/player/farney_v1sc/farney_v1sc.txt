@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : farney
+Source Model Hash : 2af6a904e72dbfddb377a3159e12348e
+Source Model Date : 1263576429 (2010/01/15)
+
+Ported Model Name : farney_v1sc
+Ported Model Hash : bda5e2831632676d16788a8c7e49b771
+Ported Model Date : 1752491644 (2025/07/14)

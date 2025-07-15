@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gcsoldier
+Source Model Hash : 5196b8d6846806c6956c76d0ae024647
+Source Model Date : 1269284547 (2010/03/22)
+
+Ported Model Name : gcsoldier_v1sc
+Ported Model Hash : 5f78ec99e1fb763a8d4edeb878ae4225
+Ported Model Date : 1752491674 (2025/07/14)

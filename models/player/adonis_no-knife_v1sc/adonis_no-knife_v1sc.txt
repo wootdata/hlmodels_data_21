@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : adonis_no-knife
+Source Model Hash : 1da694ff9b5543e54c874fab01a42d5c
+Source Model Date : 1264593344 (2010/01/27)
+
+Ported Model Name : adonis_no-knife_v1sc
+Ported Model Hash : dd7f16e8a5b1a38ef8d3780e0c79f42b
+Ported Model Date : 1752491332 (2025/07/14)

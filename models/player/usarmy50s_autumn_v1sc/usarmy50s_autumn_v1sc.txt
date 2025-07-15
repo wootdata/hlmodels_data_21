@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : usarmy50s_autumn
+Source Model Hash : f6bdef5a78d6f9aa80b23dd7b6d9555c
+Source Model Date : 1658547753 (2022/07/22)
+
+Ported Model Name : usarmy50s_autumn_v1sc
+Ported Model Hash : c74807dad0dd2f9a429015f794cb97c0
+Ported Model Date : 1752492481 (2025/07/14)

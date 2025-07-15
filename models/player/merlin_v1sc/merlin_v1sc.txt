@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : merlin
+Source Model Hash : da008a5f8e4e7e2b175d2142227e35e6
+Source Model Date : 1616906770 (2021/03/27)
+
+Ported Model Name : merlin_v1sc
+Ported Model Hash : ce13e8debd5b5c935fbf3c0fa2428ef2
+Ported Model Date : 1752492003 (2025/07/14)

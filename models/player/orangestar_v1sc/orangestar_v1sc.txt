@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : orangestar
+Source Model Hash : a39e673b90df1363bbc1154993c06b06
+Source Model Date : 1265768364 (2010/02/09)
+
+Ported Model Name : orangestar_v1sc
+Ported Model Hash : 71fd19142e0f2c8a6a0c29ebbd66ff03
+Ported Model Date : 1752492130 (2025/07/14)

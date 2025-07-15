@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : baroness
+Source Model Hash : a58f8aef54b8fbb63f7b365aaccca147
+Source Model Date : 1267792676 (2010/03/05)
+
+Ported Model Name : baroness_v1sc
+Ported Model Hash : af19e5ace91ed793129fe568d0d77ee3
+Ported Model Date : 1752491404 (2025/07/14)

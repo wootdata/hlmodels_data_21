@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gs_op_evilmiku
+Source Model Hash : 0a7cbcfa73e4c6cad10ca103134b9503
+Source Model Date : 1459955211 (2016/04/06)
+
+Ported Model Name : gs_op_evilmiku_v1sc
+Ported Model Hash : bcb3c5c6026798daeba44c1422979a19
+Ported Model Date : 1752491750 (2025/07/14)

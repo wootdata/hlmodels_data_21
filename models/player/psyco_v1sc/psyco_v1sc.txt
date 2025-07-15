@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : psyco
+Source Model Hash : cd13a48bc49c575d390c79676f3f95c5
+Source Model Date : 1591054193 (2020/06/01)
+
+Ported Model Name : psyco_v1sc
+Ported Model Hash : 4f16f7ac636cef27975b18d19e415cd4
+Ported Model Date : 1752492171 (2025/07/14)

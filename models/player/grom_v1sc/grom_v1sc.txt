@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : grom
+Source Model Hash : 69727076042ed289bb0e387754407779
+Source Model Date : 1265225907 (2010/02/03)
+
+Ported Model Name : grom_v1sc
+Ported Model Hash : 56983e7abc4b28e188dbf3bde4692d83
+Ported Model Date : 1752491742 (2025/07/14)

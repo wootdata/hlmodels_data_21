@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 5burger
+Source Model Hash : 38a2ca09253a39346add5a46057c136f
+Source Model Date : 1590369044 (2020/05/24)
+
+Ported Model Name : 5burger_v1sc
+Ported Model Hash : d866c3daeb1cd6bee64c17fff9bfe18a
+Ported Model Date : 1752491324 (2025/07/14)

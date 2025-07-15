@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : touhou_flandre_bikini2
+Source Model Hash : 86852a921fb22afab9f969a72e0aefa0
+Source Model Date : 1523051066 (2018/04/06)
+
+Ported Model Name : 2hu_flandre_bik2_v1sc
+Ported Model Hash : 0f664cfa5f9e8a6ec335fb1f5d2014f0
+Ported Model Date : 1752492437 (2025/07/14)

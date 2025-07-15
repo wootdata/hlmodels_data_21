@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cl_suit_red
+Source Model Hash : 38eec8a0e05af42e29f71a2a372c2303
+Source Model Date : 1612315820 (2021/02/02)
+
+Ported Model Name : cl_suit_red_v1sc
+Ported Model Hash : 3ccc9447b5260c12ccdd42870ad7f476
+Ported Model Date : 1752491487 (2025/07/14)

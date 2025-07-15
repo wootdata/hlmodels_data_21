@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : msn-06s_sc4
+Source Model Hash : 944fbefbd2547dfd41ce37eccc84c2dd
+Source Model Date : 1352142702 (2012/11/05)
+
+Ported Model Name : msn-06s_sc4_v1sc
+Ported Model Hash : 421177bdb85def33a6e8a1a6694a89c8
+Ported Model Date : 1752492047 (2025/07/14)

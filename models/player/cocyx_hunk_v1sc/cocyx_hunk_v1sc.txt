@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cocyx_hunk
+Source Model Hash : b9a771d029eb8d8c5973956708f30d02
+Source Model Date : 1270282366 (2010/04/03)
+
+Ported Model Name : cocyx_hunk_v1sc
+Ported Model Hash : e726861c0e72cdfed60226a50390fc75
+Ported Model Date : 1752491492 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mlp_rarity
+Source Model Hash : 0c69497b027fbe061123fd9d58ddfeae
+Source Model Date : 1491431699 (2017/04/05)
+
+Ported Model Name : mlp_rarity_v1sc
+Ported Model Hash : cc9f3eb02d575ccf19627a945fd40184
+Ported Model Date : 1752492036 (2025/07/14)

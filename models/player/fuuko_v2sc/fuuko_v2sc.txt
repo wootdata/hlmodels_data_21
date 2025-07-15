@@ -1,0 +1,29 @@
+Fuuko
+Version 0.8
+Modeled by: Peam (1999) 	email: peam_p@yahoo.com
+Site: www.geocities.com/siliconvalley/lab/3189/
+
+Speacial thanks to: Spider, provider of model tutoring		
+--------------------------------------------------------------------------------------------
+
+Comments
+-----------------
+- Fuuko has nothing speacial but her hair.
+- No differences between hi and lo resolution models.
+
+Enjoy!
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : fuuko_v2
+Source Model Hash : bb6620d1c55e814b9432d70d6468d888
+Source Model Date : 1583877991 (2020/03/10)
+
+Ported Model Name : fuuko_v2sc
+Ported Model Hash : c304fb0272a20a95380feff767341957
+Ported Model Date : 1752491665 (2025/07/14)

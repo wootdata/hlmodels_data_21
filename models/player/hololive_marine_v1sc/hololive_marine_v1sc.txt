@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hololive_marine
+Source Model Hash : b497fc6e03d63dcfc47c48afa4409dd6
+Source Model Date : 1651297355 (2022/04/29)
+
+Ported Model Name : hololive_marine_v1sc
+Ported Model Hash : c0d0bdb336f1527ecdbfc0cbc7a7a655
+Ported Model Date : 1752491824 (2025/07/14)

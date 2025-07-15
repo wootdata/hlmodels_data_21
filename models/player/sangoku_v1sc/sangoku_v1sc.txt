@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sangoku
+Source Model Hash : c8a3a14c0cab862cb8f52f0cff5d956b
+Source Model Date : 1269692717 (2010/03/27)
+
+Ported Model Name : sangoku_v1sc
+Ported Model Hash : 6eafe6ccd6bf2e330faeb6c467ed7fd5
+Ported Model Date : 1752492235 (2025/07/14)

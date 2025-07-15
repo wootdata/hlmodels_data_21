@@ -1,0 +1,16 @@
+So this is my first skin. I used model "Chris" for it!(thnx for making the model -Rusty-!)
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sp22
+Source Model Hash : a4b65e6de414d5f5206d18ae52eac892
+Source Model Date : 1269932453 (2010/03/30)
+
+Ported Model Name : sp22_v1sc
+Ported Model Hash : 547be847a5f02269b84e0cb6690c289f
+Ported Model Date : 1752492304 (2025/07/14)

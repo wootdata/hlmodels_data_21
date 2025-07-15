@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : creepie
+Source Model Hash : 33dfb889847294274a172556f62e0e59
+Source Model Date : 1590533691 (2020/05/26)
+
+Ported Model Name : creepie_v1sc
+Ported Model Hash : 66d9e73e881d2361a77c43cb21103423
+Ported Model Date : 1752491537 (2025/07/14)

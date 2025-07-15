@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : terryman
+Source Model Hash : 233bb902cde59cb9959fe27200b7ea74
+Source Model Date : 1541089367 (2018/11/01)
+
+Ported Model Name : terryman_v1sc
+Ported Model Hash : 197b0ac5d916b053e506d0511454b76f
+Ported Model Date : 1752492402 (2025/07/14)

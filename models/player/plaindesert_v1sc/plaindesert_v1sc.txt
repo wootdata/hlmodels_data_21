@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : plaindesert
+Source Model Hash : 8687a2326157984d7f197cdba2d81ca2
+Source Model Date : 1041667240 (2003/01/04)
+
+Ported Model Name : plaindesert_v1sc
+Ported Model Hash : a58eb86e5bee12d5b7d77c506d788932
+Ported Model Date : 1752492159 (2025/07/14)

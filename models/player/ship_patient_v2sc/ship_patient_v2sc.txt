@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ship_patient_v2
+Source Model Hash : b485e0030b398e11169ec1bd961f0bfe
+Source Model Date : 1583739105 (2020/03/09)
+
+Ported Model Name : ship_patient_v2sc
+Ported Model Hash : 8d185fb5f551a9c76d42b8aefae147a6
+Ported Model Date : 1752492272 (2025/07/14)

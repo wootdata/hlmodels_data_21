@@ -1,0 +1,22 @@
+Unmasked Barney - Half-Life Model
+---------------------------------
+Modeler: PeRcY
+Email: percy3000@gmx.net
+ICQ # 89565962
+
+This is the barney without his stuff like the vest or the helmet..
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : unm_barney
+Source Model Hash : 7b9dfaa69630aa5df7491de3c2cbf41c
+Source Model Date : 1454423254 (2016/02/02)
+
+Ported Model Name : unm_barney_v1sc
+Ported Model Hash : 09a819f3e0e006dfe732799087726a9d
+Ported Model Date : 1752492478 (2025/07/14)

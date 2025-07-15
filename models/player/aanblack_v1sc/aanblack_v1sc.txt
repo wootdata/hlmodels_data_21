@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : aanblack
+Source Model Hash : d21b58dddbf0051802df0b72b7db4980
+Source Model Date : 1424634285 (2015/02/22)
+
+Ported Model Name : aanblack_v1sc
+Ported Model Hash : b594e5e3de052df3b09d6a17c5e66320
+Ported Model Date : 1752491327 (2025/07/14)

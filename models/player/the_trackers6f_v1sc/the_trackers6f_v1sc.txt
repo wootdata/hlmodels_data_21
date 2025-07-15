@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : the_trackers6_forest
+Source Model Hash : 95d91ea03e9b2c03c7f6395e968e1723
+Source Model Date : 1591335675 (2020/06/04)
+
+Ported Model Name : the_trackers6f_v1sc
+Ported Model Hash : 6bc471bdbea1bf25373809f0dc6e2fa3
+Ported Model Date : 1752492413 (2025/07/14)

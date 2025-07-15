@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gone
+Source Model Hash : 3aae87dd717aef1647e697dcb7e4a114
+Source Model Date : 1591040492 (2020/06/01)
+
+Ported Model Name : gone_v1sc
+Ported Model Hash : a7237cae2358798920c03f238bc003ae
+Ported Model Date : 1752491733 (2025/07/14)

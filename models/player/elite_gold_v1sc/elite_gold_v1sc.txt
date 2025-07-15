@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : elite_gold
+Source Model Hash : 77c32ce82035bc4b1b41b9faa61f3315
+Source Model Date : 1236699116 (2009/03/10)
+
+Ported Model Name : elite_gold_v1sc
+Ported Model Hash : 6fdccd58e566079430424c0cd6ef8578
+Ported Model Date : 1752491632 (2025/07/14)

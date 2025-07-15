@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : rinnosuke
+Source Model Hash : 7bc0d6df249766b4f058501c71410a50
+Source Model Date : 1411828570 (2014/09/27)
+
+Ported Model Name : rinnosuke_v1sc
+Ported Model Hash : fd5875a4ebaa33f49556d72f492aff2f
+Ported Model Date : 1752492217 (2025/07/14)

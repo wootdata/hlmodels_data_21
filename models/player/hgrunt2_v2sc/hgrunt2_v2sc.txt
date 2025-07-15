@@ -1,0 +1,18 @@
+Original model by Valve Software. Model re-skinned by Zhukoyev (E-mail: zhukoyev@bellsouth.net)
+
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hgrunt2_v2
+Source Model Hash : 0453dab6c8ccda6a57c2e38915429ae1
+Source Model Date : 1583057579 (2020/03/01)
+
+Ported Model Name : hgrunt2_v2sc
+Ported Model Hash : e3a2dff69a9461591f1d6c2aefcb114d
+Ported Model Date : 1752491792 (2025/07/14)

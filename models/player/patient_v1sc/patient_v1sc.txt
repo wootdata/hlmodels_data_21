@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : patient
+Source Model Hash : b18e9b9866081bb4ea81943290087e19
+Source Model Date : 1269505170 (2010/03/25)
+
+Ported Model Name : patient_v1sc
+Ported Model Hash : c6745b22b83b9ce0d00183be349f2c99
+Ported Model Date : 1752492148 (2025/07/14)

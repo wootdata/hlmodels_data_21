@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mad_satori_komeiji
+Source Model Hash : 4861d68d25bd7de3df470f6f6b9cd02f
+Source Model Date : 1682509498 (2023/04/26)
+
+Ported Model Name : mad_satorikomeiji_v1sc
+Ported Model Hash : a98554f2605b5496154478c82ed653d6
+Ported Model Date : 1752491980 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : colonel_sanders
+Source Model Hash : 1078638b2f43eef5f4622f65b44c4472
+Source Model Date : 1458357070 (2016/03/18)
+
+Ported Model Name : colonel_sanders_v1sc
+Ported Model Hash : 4d39e1d3fd2673027aa8507447b267d3
+Ported Model Date : 1752491506 (2025/07/14)

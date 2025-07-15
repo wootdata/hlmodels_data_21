@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : op4_heavy_dcp5
+Source Model Hash : 2a059b4745d0d0dab0dd2b0f774a1faf
+Source Model Date : 1603048489 (2020/10/18)
+
+Ported Model Name : op4_heavy_dcp5_v1sc
+Ported Model Hash : 4b1afafafc92160b5e4c30acfe5cffbb
+Ported Model Date : 1752492120 (2025/07/14)

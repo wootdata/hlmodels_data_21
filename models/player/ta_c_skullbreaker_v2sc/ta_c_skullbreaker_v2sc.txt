@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ta_c_skullbreaker_v2
+Source Model Hash : cd5be02bb7ce8fbb8bd12e4cb4e75375
+Source Model Date : 1661807069 (2022/08/29)
+
+Ported Model Name : ta_c_skullbreaker_v2sc
+Ported Model Hash : f2f20a74678e969d76cf24e5d73d73f2
+Ported Model Date : 1752492379 (2025/07/14)

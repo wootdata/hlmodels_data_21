@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mlp_luna_v2
+Source Model Hash : f0912aceaa2b78ff41655069e7957040
+Source Model Date : 1538526418 (2018/10/02)
+
+Ported Model Name : mlp_luna_v2sc
+Ported Model Hash : 3c69993d715af662f8f2212b024117b7
+Ported Model Date : 1752492035 (2025/07/14)

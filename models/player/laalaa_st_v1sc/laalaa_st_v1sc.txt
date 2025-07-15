@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : laalaa_st
+Source Model Hash : 9798def8d6218b3bdab12300cc256729
+Source Model Date : 1623112458 (2021/06/07)
+
+Ported Model Name : laalaa_st_v1sc
+Ported Model Hash : 9dcb1c1a4a3daac0a99a3bb81b4e2ab3
+Ported Model Date : 1752491936 (2025/07/14)

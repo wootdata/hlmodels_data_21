@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : res_marksman_v2
+Source Model Hash : de80d7d3225830de2676ff04ac240d6d
+Source Model Date : 1523924182 (2018/04/16)
+
+Ported Model Name : res_marksman_v2sc
+Ported Model Hash : 99565b11820d8a13a0c3b8a5633386b2
+Ported Model Date : 1752492201 (2025/07/14)

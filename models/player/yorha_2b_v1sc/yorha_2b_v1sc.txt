@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : yorha_2b
+Source Model Hash : e1534d7947c2b5d106a1e6a736f8ff7f
+Source Model Date : 1536033944 (2018/09/03)
+
+Ported Model Name : yorha_2b_v1sc
+Ported Model Hash : 4d8e85c180d0112c3ad0706fedbbee04
+Ported Model Date : 1752492521 (2025/07/14)

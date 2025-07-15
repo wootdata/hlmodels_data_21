@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lum2_v2
+Source Model Hash : cc6c57c3196593001b133e20810189b2
+Source Model Date : 1583478542 (2020/03/05)
+
+Ported Model Name : lum2_v2sc
+Ported Model Hash : ac4c093bcfc8e235d3281ab8f6d13f0d
+Ported Model Date : 1752491975 (2025/07/14)

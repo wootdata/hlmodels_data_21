@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : [usmc]sgt_brady
+Source Model Hash : e6d4ffd68b6b147ac181afd4083d0365
+Source Model Date : 1542059012 (2018/11/12)
+
+Ported Model Name : [usmc]sgt_brady_v1sc
+Ported Model Hash : 41d22fd347e79db8d11df8912f8dd854
+Ported Model Date : 1752492541 (2025/07/14)
