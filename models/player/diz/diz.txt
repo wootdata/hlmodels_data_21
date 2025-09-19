@@ -1,0 +1,17 @@
+Starship Troopers Skins  1.0
+1-21-98
+
+DIZ
+JHONNY RICO
+
+These skins were created for deathmatch, for fans of one
+of the best movies around. I scourred the internet to find images
+to use for the faces and armor, I think I ended up with 2 good skins
+
+to install create 2 dirs inside the Player folder
+, one entitled RICO  the other DIZ  and place the files
+of simular name into each one, Exm. DIZ.MDL,DIZ.BMP >>> \DIZ\ 
+and walla.
+
+Darkwolfdkk@hotmail.com
+email me for a copy of the skin
