@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : uma_mcqueen
+Source Model Hash : ae63b915452b95409be39fb3367fda72
+Source Model Date : 1777848693 (2026/05/03)
+
+Ported Model Name : uma_mcqueen_v1sc
+Ported Model Hash : e4a25b2018af63160a477d07b8c7f4b7
+Ported Model Date : 1780823050 (2026/06/07)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : etemon
+Source Model Hash : c65c06a4325e1695226cba743a391361
+Source Model Date : 1775913393 (2026/04/11)
+
+Ported Model Name : etemon_v1sc
+Ported Model Hash : 3557838efcdbf622b07b778402debf85
+Ported Model Date : 1780823019 (2026/06/07)

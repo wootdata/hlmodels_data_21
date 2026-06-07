@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : canny_cat
+Source Model Hash : 4d65de8e92b1e07d8ecbc740e7c260df
+Source Model Date : 1772271706 (2026/02/28)
+
+Ported Model Name : canny_cat_v1sc
+Ported Model Hash : ed169bed4499101a282af884a9691bf8
+Ported Model Date : 1780823018 (2026/06/07)
